@@ -13,6 +13,7 @@ public class ArraySorting {
         int array[] = new int[size];
         ArrayInput(array);
         SortArray(array);
+        System.out.println("");
     }
     static void ArrayInput(int[] array)
     {
